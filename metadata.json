@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Map Navigation App",
+  "description": "A simple mobile-style application featuring a bottom navigation bar and a content area, conceptually for map navigation or other views.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
